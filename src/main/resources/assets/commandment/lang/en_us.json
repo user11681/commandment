@@ -1,0 +1,12 @@
+{
+    "text.autoconfig.commandment.title": "Commandment",
+    "text.autoconfig.commandment.option.effect": "/effect",
+    "text.autoconfig.commandment.option.effect.amplifierLimit": "amplifier limit",
+    "text.autoconfig.commandment.option.effect.durationLimit": "duration limit",
+    "text.autoconfig.commandment.option.enchant": "/enchant",
+    "text.autoconfig.commandment.option.enchant.acceptabilityCheck": "item acceptability check",
+    "text.autoconfig.commandment.option.enchant.compatibilityCheck": "enchantment compatibiltity check",
+    "text.autoconfig.commandment.option.enchant.limit": "level limit",
+    "text.autoconfig.commandment.option.fill": "/fill",
+    "text.autoconfig.commandment.option.fill.limit": "block limit"
+}

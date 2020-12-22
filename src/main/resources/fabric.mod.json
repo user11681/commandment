@@ -1,0 +1,35 @@
+{
+    "schemaVersion": 1,
+    "id": "commandment",
+    "version": "${version}",
+
+    "name": "Commandment",
+    "description": "command tweaks",
+    "authors": [
+        "user11681"
+    ],
+    "contact": {
+        "repo": "https://github.com/user11681/commandment"
+    },
+
+    "license": "LGPL-3.0",
+    "icon": "assets/commandment/icon.png",
+
+    "entrypoints": {
+        "main": [
+            "user11681.commandment.Commandment"
+        ],
+        "modmenu": [
+            "user11681.commandment.CommandmentModMenuIntegration"
+        ]
+    },
+
+    "mixins": [
+        "commandment.mixins.json"
+    ],
+
+    "depends": {
+        "fabricloader": ">=0.10.8",
+        "minecraft": "1.16.4"
+    }
+}

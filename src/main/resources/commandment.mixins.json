@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "user11681.commandment.asm.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "EffectCommandMixin",
+        "EnchantCommandMixin",
+        "FillCommandMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
